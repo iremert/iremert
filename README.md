@@ -1,5 +1,8 @@
 # 👋 Merhaba, ben İrem Ertürk  
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/dcd573d9-6b26-49a7-a814-22f4a8db7b07" />
+
+<p align="center">
+  <img width="1400" height="350" src="https://github.com/user-attachments/assets/dcd573d9-6b26-49a7-a814-22f4a8db7b07" alt="İrem Ertürk Banner"/>
+</p>
 
 🎓  **Yazılım Mühendisliği** 4. sınıf öğrencisiyim.  
 💻 Özellikle **.NET Core tabanlı backend geliştirme** alanında deneyimliyim.  
@@ -20,37 +23,22 @@
 ## 🛠️ Kullandığım Teknolojiler
 
 ### 🔙 Backend
-- ⚡ C#  
-- 🏗️ ASP.NET Core, Web API  
-- 🗄️ Entity Framework  
+⚡ C# | 🏗️ ASP.NET Core, Web API | 🗄️ Entity Framework  
 
 ### 🌐 Frontend
-- 🎨 HTML, CSS, JavaScript  
-- 🖌️ Bootstrap  
+🎨 HTML, CSS, JavaScript | 🖌️ Bootstrap  
 
 ### 🛢️ Veritabanı
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-- 🟦 MSSQL  
-- 🍃 MongoDB  
-- 💾 SQLite  
+🐘 PostgreSQL | 🐬 MySQL | 🟦 MSSQL | 🍃 MongoDB | 💾 SQLite  
 
 ### ☁️ Bulut & DevOps
-- ☁️ AWS Lambda  
-- 🐳 Docker  
-- 🗂️ Portainer, Redis  
+☁️ AWS Lambda | 🐳 Docker | 🗂️ Portainer, Redis  
 
 ### 🤖 Yapay Zeka & Veri
-- 🐍 Python  
-- 🔬 TensorFlow  
-- ⚙️ Flask  
-- 🧠 Makine Öğrenmesi  
+🐍 Python | 🔬 TensorFlow | ⚙️ Flask | 🧠 Makine Öğrenmesi  
 
 ### 🔧 Araçlar
-- 📬 Postman  
-- 🗂️ DBeaver  
-- 🧪 Unit Testing  
-- 🖥️ Visual Studio & VS Code  
+📬 Postman | 🗂️ DBeaver | 🧪 Unit Testing | 🖥️ Visual Studio & VS Code  
 
 ---
 
@@ -62,16 +50,19 @@
   Blog, rezervasyon ve kulüp yönetim modülleri. JWT tabanlı kimlik doğrulama ile güvenli yapı.  
 
 - **TÜBİTAK 2209-A Projesi (2024 – Devam)**  
-  Makine öğrenmesi destekli kişisel verimlilik analizi platformu.
+  Makine öğrenmesi destekli kişisel verimlilik analizi platformu.  
 
-  
 ---
 
+## 🏆 GitHub Başarılarım
+![Trophy](https://github-profile-trophy.vercel.app/?username=iremert&theme=radical&no-frame=true&margin-w=15)
+
+---
 
 ## 📊 GitHub İstatistiklerim
-![İrem'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=iremert&show_icons=true&theme=radical)  
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=iremert&layout=compact&theme=radical)  
+![İstatistikler](https://github-readme-stats.vercel.app/api?username=iremert&show_icons=true&theme=radical)  
+![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=iremert&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iremert&theme=radical)  
 
 ---
 
@@ -84,4 +75,3 @@
 ---
 
 ✨ Yeni teknolojileri öğrenmeye, açık kaynak katkılarında bulunmaya ve gerçek dünya projeleri geliştirmeye her zaman açığım!  
-
