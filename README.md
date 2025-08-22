@@ -1,17 +1,87 @@
-![MasterHead](https://i.pinimg.com/564x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg)
-<h1 align="center">Hi 👋, I'm İrem Ertürk</h1>
-<h3 align="center">I am a passionate software engineer student from Turkey and learning web</h3>
+# 👋 Merhaba, ben İrem Ertürk  
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/dcd573d9-6b26-49a7-a814-22f4a8db7b07" />
 
-- 🌱 I’m currently learning **Asp.Net Core**
+🎓  **Yazılım Mühendisliği** 4. sınıf öğrencisiyim.  
+💻 Özellikle **.NET Core tabanlı backend geliştirme** alanında deneyimliyim.  
+☁️ **AWS Lambda** ve **bulut mimarileri** üzerine çalışıyorum.  
+🤖 Yapay zeka & makine öğrenmesi projeleri geliştiriyorum.  
 
-- 📫 How to reach me **erturkirem.238@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irem-ertürk-a869b7290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-ertürk-a869b7290" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21092931/i̇rem-ertürk-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21092931/i̇rem-ertürk-1" height="30" width="40" /></a>
-<a href="https://instagram.com/irem__erturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irem__erturk/" height="30" width="40" /></a>
-</p>
+## 🚀 Hakkımda
+- RESTful API geliştirme, Entity Framework ile veritabanı entegrasyonu ve performans optimizasyonu  
+- **SQL Server & MongoDB** veri yönetimi  
+- JWT & IdentityServer ile kimlik doğrulama, AutoMapper & DTO  
+- Full-stack geliştirme: **.NET Core + HTML/CSS/JS**  
+- Takım projelerinde aktif rol, iletişim ve proje yönetimi  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+### 🔙 Backend
+- ⚡ C#  
+- 🏗️ ASP.NET Core, Web API  
+- 🗄️ Entity Framework  
+
+### 🌐 Frontend
+- 🎨 HTML, CSS, JavaScript  
+- 🖌️ Bootstrap  
+
+### 🛢️ Veritabanı
+- 🐘 PostgreSQL  
+- 🐬 MySQL  
+- 🟦 MSSQL  
+- 🍃 MongoDB  
+- 💾 SQLite  
+
+### ☁️ Bulut & DevOps
+- ☁️ AWS Lambda  
+- 🐳 Docker  
+- 🗂️ Portainer, Redis  
+
+### 🤖 Yapay Zeka & Veri
+- 🐍 Python  
+- 🔬 TensorFlow  
+- ⚙️ Flask  
+- 🧠 Makine Öğrenmesi  
+
+### 🔧 Araçlar
+- 📬 Postman  
+- 🗂️ DBeaver  
+- 🧪 Unit Testing  
+- 🖥️ Visual Studio & VS Code  
+
+---
+
+## 📌 Projeler
+- **UTM Web Platformu (2025 – Devam)**  
+  N-katmanlı mimariyle geliştirilen full-stack web platformu. .NET Core REST API, JWT, Rate Limiting, yapay zeka entegrasyonu.  
+
+- **BEVASK Atlı Spor Sitesi (2025 - Devam)**  
+  Blog, rezervasyon ve kulüp yönetim modülleri. JWT tabanlı kimlik doğrulama ile güvenli yapı.  
+
+- **TÜBİTAK 2209-A Projesi (2024 – Devam)**  
+  Makine öğrenmesi destekli kişisel verimlilik analizi platformu.
+
+  
+---
+
+
+## 📊 GitHub İstatistiklerim
+![İrem'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=iremert&show_icons=true&theme=radical)  
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=iremert&layout=compact&theme=radical)  
+
+---
+
+## 📫 Bana Ulaşın
+- 📧 **E-posta:** erturkirem.238@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/irem-ert%C3%BCrk-a869b7290)  
+- 🌐 [Portfolio](https://iremert.github.io/iremPortfolio)  
+- 🐙 [GitHub](https://github.com/iremert)  
+
+---
+
+✨ Yeni teknolojileri öğrenmeye, açık kaynak katkılarında bulunmaya ve gerçek dünya projeleri geliştirmeye her zaman açığım!  
+
